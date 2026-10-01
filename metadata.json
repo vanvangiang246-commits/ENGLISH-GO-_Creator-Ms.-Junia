@@ -1,0 +1,10 @@
+{
+  "name": "Remix Ms_Junia_ENGLISH GO! - Primary English Learning",
+  "description": "Interactive English learning and revision application for primary school students (Global Success 1-5 \u0026 Ôn thi CLC) by Ms. Junia.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
